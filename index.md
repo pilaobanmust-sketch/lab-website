@@ -1,21 +1,17 @@
 ---
 ---
 
-# Lab Website Template
+# PRMRC - Li Lab
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
+Welcome to the Precision Regenerative Medicine Research Centre at Macau University of Science and Technology. Our lab focuses on advancing regenerative medicine through innovative research in intestinal stem cell biology, organoid models, and therapeutic strategies for neonatal intestinal diseases.
 
 {%
   include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
-%}
-{%
-  include button.html
-  type="github"
-  text="On GitHub"
-  link="greenelab/lab-website-template"
+  link="research"
+  text="Explore our research"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
 %}
 
 {% include section.html %}
@@ -24,7 +20,7 @@ Spend less time worrying about managing a website and citations, and more time r
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research focuses on developmental microenvironment remodeling in neonatal intestinal diseases, particularly necrotizing enterocolitis (NEC). We investigate intestinal stem cell-driven regeneration, stromal and vascular niche regulation, and develop novel regenerative therapeutic strategies using stem cell-based approaches and organoid models.
 
 {%
   include button.html
@@ -47,7 +43,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We employ cutting-edge technologies including organoid and assembloid models to study intestinal development, disease progression, and regenerative therapies. Our work bridges basic science and clinical applications to improve outcomes for infants with devastating intestinal conditions.
 
 {%
   include button.html
@@ -72,7 +68,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team is dedicated to advancing regenerative medicine research and training the next generation of scientists. We foster a collaborative environment where innovation meets clinical impact.
 
 {%
   include button.html

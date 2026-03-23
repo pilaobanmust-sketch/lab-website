@@ -11,3 +11,7 @@ package.json
 package-lock.json
 yarn.lock
 node_modules
+
+# Personal documents
+*.pdf
+*.docx
