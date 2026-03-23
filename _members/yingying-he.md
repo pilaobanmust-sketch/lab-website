@@ -2,7 +2,7 @@
 name: Yingying (Jasmine) He
 image: images/photo.jpg
 role: phd
-affiliation: Faculty of Medicine, University of Macau
+affiliation: Faculty of Medicine, Macau University of Science and Technology
 aliases:
   - Y. He
   - Yingying He
