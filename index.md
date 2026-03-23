@@ -35,7 +35,7 @@ Our research focuses on developmental microenvironment remodeling in neonatal in
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.png"
   link="research"
   title="Our Research"
   text=text
@@ -58,7 +58,7 @@ We employ cutting-edge technologies including organoid and assembloid models to 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/project.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -83,7 +83,7 @@ Our team is dedicated to advancing regenerative medicine research and training t
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.png"
   link="team"
   title="Our Team"
   text=text

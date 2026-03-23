@@ -1,6 +1,6 @@
 - title: Intestinal Stem Cell Regeneration
   group: featured
-  image: images/photo.jpg
+  image: images/projectpage1.jpg
   description: Investigating intestinal stem cell-driven regeneration and epithelial repair mechanisms in necrotizing enterocolitis (NEC) to develop novel therapeutic approaches.
   tags:
     - stem cells
@@ -9,7 +9,7 @@
 
 - title: Organoid and Assembloid Models
   group: featured
-  image: images/photo.jpg
+  image: images/projectpage2.jpg
   description: Developing advanced organoid and assembloid models for studying intestinal development, disease progression, and testing regenerative therapies.
   tags:
     - organoids
@@ -17,7 +17,7 @@
     - drug testing
 
 - title: Stromal-Epithelial Cross-talk
-  image: images/photo.jpg
+  image: images/projectpage3.jpg
   description: Understanding stromal and vascular niche regulation in neonatal intestinal injury and repair, focusing on the developmental microenvironment.
   tags:
     - niche biology
@@ -25,7 +25,7 @@
     - development
 
 - title: Therapeutic Strategies for NEC
-  image: images/photo.jpg
+  image: images/projectpage4.jpg
   description: Developing regenerative therapeutic strategies including stem cell-based and conditioning approaches for treating necrotizing enterocolitis.
   tags:
     - therapeutics
