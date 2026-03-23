@@ -20,6 +20,7 @@
   type: paper
   description: Comprehensive review exploring the complex pathophysiology of necrotizing
     enterocolitis in preterm neonates.
+  image: images/publication-ar.jpg
   tags:
   - NEC
   - review
@@ -58,6 +59,7 @@
   type: paper
   description: Molecular and chromatin accessibility programs underlying epithelial
     injury and impaired regeneration in neonatal necrotizing enterocolitis.
+  image: images/publication-cmgh.jpg
   tags:
   - NEC
   - genomics
@@ -104,6 +106,7 @@
   type: paper
   description: Impairment of stromal-epithelial regenerative cross-talk in Hirschsprung
     disease primes for the progression to enterocolitis.
+  image: images/publication-stm.jpg
   tags:
   - Hirschsprung disease
   - regeneration
@@ -144,6 +147,7 @@
   type: paper
   description: Remote ischemic conditioning counteracts the intestinal damage of necrotizing
     enterocolitis by improving intestinal microcirculation.
+  image: images/publication-nc.jpg
   tags:
   - NEC
   - therapy
@@ -184,6 +188,7 @@
   type: paper
   description: "Impaired Wnt/\u03B2-catenin pathway leads to dysfunction of intestinal\
     \ regeneration during necrotizing enterocolitis."
+  image: images/publication-cdd.jpg
   tags:
   - NEC
   - Wnt signaling
