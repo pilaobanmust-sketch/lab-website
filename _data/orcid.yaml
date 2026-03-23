@@ -3,4 +3,8 @@
 # Example:
 # - orcid: 0000-0001-2345-6789
 
+# Empty list (no ORCID configured yet)
+[]
+
+
 
