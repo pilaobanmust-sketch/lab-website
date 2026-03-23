@@ -1,53 +1,394 @@
-# Featured Publications
-# These will be highlighted on the research page
-
+# Featured Publications (with images)
 - id: doi:10.1146/annurev-pathmechdis-070224-014223
   type: paper
-  description: Comprehensive review exploring the complex pathophysiology of necrotizing enterocolitis in preterm neonates.
   image: images/publication_ar.png
-  tags:
-    - NEC
-    - review
-    - pathophysiology
+  tags: [NEC, review]
 
 - id: doi:10.1016/j.jcmgh.2026.101730
   type: paper
-  description: Molecular and chromatin accessibility programs underlying epithelial injury and impaired regeneration in neonatal necrotizing enterocolitis.
   image: images/publication_cmgh.png
-  tags:
-    - NEC
-    - genomics
-    - regeneration
+  tags: [NEC, genomics]
 
 - id: doi:10.1126/scitranslmed.adp4679
   type: paper
-  description: Impairment of stromal-epithelial regenerative cross-talk in Hirschsprung disease primes for the progression to enterocolitis.
   image: images/publication_stm.png
-  tags:
-    - Hirschsprung disease
-    - regeneration
-    - enterocolitis
+  tags: [Hirschsprung disease]
 
 - id: doi:10.1038/s41467-020-18750-9
   type: paper
-  description: Remote ischemic conditioning counteracts the intestinal damage of necrotizing enterocolitis by improving intestinal microcirculation.
   image: images/publication_nc.png
-  tags:
-    - NEC
-    - therapy
-    - microcirculation
+  tags: [NEC, therapy]
 
 - id: doi:10.1038/s41419-019-1987-1
   type: paper
-  description: Impaired Wnt/β-catenin pathway leads to dysfunction of intestinal regeneration during necrotizing enterocolitis.
   image: images/publication_cdd.png
-  tags:
-    - NEC
-    - Wnt signaling
-    - stem cells
+  tags: [NEC, Wnt signaling]
 
-# Additional publications will be automatically imported from Google Scholar
-# You can add more specific publications with DOIs below using the same format
+# 2026 Publications
+- id: doi:10.1016/j.jpedsurg.2026.162963
+  type: paper
+  tags: [NEC, nutrition]
 
+# 2025 Publications
+- id: doi:10.1093/stcltm/szaf052
+  type: paper
+  tags: [biliary atresia, stem cells]
 
+- id: doi:10.1007/s00383-025-06248-8
+  type: paper
+  tags: [anastomosis, conditioning]
 
+- id: doi:10.1007/s00383-025-06240-2
+  type: paper
+  tags: [NEC, ferroptosis]
+
+- id: doi:10.1007/s00383-025-06238-w
+  type: paper
+  tags: [NEC, conditioning]
+
+- id: doi:10.1016/j.clnu.2025.09.015
+  type: paper
+  tags: [NEC, nutrition]
+
+- id: doi:10.1007/s00383-024-05957-w
+  type: paper
+  tags: [NEC, organoids]
+
+- id: doi:10.1016/j.jpedsurg.2025.162217
+  type: paper
+  tags: [Hirschsprung disease]
+
+- id: doi:10.1136/wjps-2025-001057
+  type: paper
+  tags: [Hirschsprung disease]
+
+- id: doi:10.1007/s00383-025-06043-5
+  type: paper
+  tags: [NEC, breast milk]
+
+# 2024 Publications
+- id: doi:10.1007/s00383-024-05861-3
+  type: paper
+  tags: [Hirschsprung disease]
+
+- id: doi:10.1038/s41390-024-03236-x
+  type: paper
+  tags: [NEC, regenerative medicine]
+
+- id: doi:10.1111/cpr.13618
+  type: paper
+  tags: [development]
+
+- id: doi:10.1126/sciadv.adk0164
+  type: paper
+  tags: [cardiac, exosomes]
+
+- id: doi:10.1007/s00383-023-05598-5
+  type: paper
+  tags: [NEC, HMO]
+
+# 2023 Publications
+- id: doi:10.1007/s00383-023-05596-7
+  type: paper
+  tags: [sepsis, argon]
+
+- id: doi:10.1128/msystems.00431-23
+  type: paper
+  tags: [microbiome]
+
+- id: doi:10.1007/s00383-023-05476-0
+  type: paper
+  tags: [NEC, review]
+
+- id: doi:10.1016/j.sempedsurg.2023.151312
+  type: paper
+  tags: [NEC, conditioning]
+
+- id: doi:10.3389/fped.2023.1089229
+  type: paper
+  tags: [sepsis, family care]
+
+- id: doi:10.1007/s00383-023-05490-2
+  type: paper
+  tags: [NEC, exosomes]
+
+- id: doi:10.1007/s00383-023-05489-9
+  type: paper
+  tags: [biliary atresia]
+
+- id: doi:10.1016/j.sempedsurg.2022.151234
+  type: paper
+  tags: [intestinal atresia, NEC]
+
+# 2022 Publications
+- id: doi:10.1016/j.immuni.2022.11.003
+  type: paper
+  tags: [microbiome, development]
+
+- id: doi:10.3389/fped.2022.1020986
+  type: paper
+  tags: [NEC, stem cells]
+
+- id: doi:10.1038/s41390-021-01657-6
+  type: paper
+  tags: [NEC, stem cells]
+
+- id: doi:10.1002/mnfr.202100893
+  type: paper
+  tags: [NEC, HMO]
+
+- id: doi:10.1007/s00383-022-05093-3
+  type: paper
+  tags: [conditioning]
+
+- id: doi:10.1007/s00383-022-05095-1
+  type: paper
+  tags: [NEC, clinical trial]
+
+- id: doi:10.1016/j.jpedsurg.2022.02.029
+  type: paper
+  tags: [NEC, breast milk, exosomes]
+
+- id: doi:10.1055/s-0042-1745780
+  type: paper
+  tags: [Hirschsprung disease]
+
+- id: doi:10.1136/archdischild-2022-324174
+  type: paper
+  tags: [NEC, conditioning]
+
+# 2021 Publications
+- id: doi:10.1096/fj.202001426R
+  type: paper
+  tags: [NEC, stem cells]
+
+- id: doi:10.1371/journal.pone.0260522
+  type: paper
+  tags: [NEC, stem cells]
+
+- id: doi:10.1126/scitranslmed.aax5941
+  type: paper
+  tags: [lung, stem cells]
+
+- id: doi:10.1007/s00383-020-04816-8
+  type: paper
+  tags: [NEC, liver]
+
+- id: doi:10.1016/j.jpedsurg.2020.09.043
+  type: paper
+  tags: [biliary atresia, organoids]
+
+- id: doi:10.1007/s00383-020-04819-5
+  type: paper
+  tags: [NEC, ultrasound]
+
+- id: doi:10.21769/BioProtoc.3937
+  type: paper
+  tags: [methods, imaging]
+
+- id: doi:10.1007/s00383-021-04929-8
+  type: paper
+  tags: [NEC, ER stress]
+
+- id: doi:10.1038/s41598-021-86920-w
+  type: paper
+  tags: [nutrition, microbiome]
+
+- id: doi:10.1007/s00383-020-04826-6
+  type: paper
+  tags: [NEC, stem cells, exosomes]
+
+- id: doi:10.1007/s00383-020-04831-9
+  type: paper
+  tags: [conditioning, regeneration]
+
+# 2020 Publications
+- id: doi:10.1038/s41419-020-02964-2
+  type: paper
+  tags: [NEC, stem cells, Wnt]
+
+- id: doi:10.1002/mnfr.202000519
+  type: paper
+  tags: [NEC, HMO]
+
+- id: doi:10.1096/fj.201902892RR
+  type: paper
+  tags: [NEC, stem cells]
+
+- id: doi:10.1007/s00383-019-04615-w
+  type: paper
+  tags: [NEC, signaling]
+
+- id: doi:10.1055/s-0039-1697910
+  type: paper
+  tags: [NEC, biomarkers]
+
+- id: doi:10.1007/s00383-020-04765-2
+  type: paper
+  tags: [biliary atresia, organoids]
+
+- id: doi:10.1007/s00383-019-04581-3
+  type: paper
+  tags: [organoids]
+
+- id: doi:10.1007/s00383-020-04710-3
+  type: paper
+  tags: [breast milk, stem cells]
+
+- id: doi:10.1016/j.jpedsurg.2020.02.035
+  type: paper
+  tags: [NEC, microbiota]
+
+- id: doi:10.1016/j.jpedsurg.2020.02.036
+  type: paper
+  tags: [butyrate]
+
+- id: doi:10.1055/s-0039-1693728
+  type: paper
+  tags: [NEC, lactoferrin]
+
+- id: doi:10.3389/fnut.2020.00083
+  type: paper
+  tags: [microbiome, vitamin B12]
+
+- id: doi:10.1002/mnfr.201900873
+  type: paper
+  tags: [nutrition, inflammation]
+
+- id: doi:10.1007/s00383-020-04762-5
+  type: paper
+  tags: [conditioning]
+
+- id: doi:10.1007/s00383-019-04599-7
+  type: paper
+  tags: [breast milk, exosomes]
+
+- id: doi:10.1055/s-0039-1693726
+  type: paper
+  tags: [NEC, organoids]
+
+- id: doi:10.1007/s00383-020-04724-x
+  type: paper
+  tags: [NEC, autophagy]
+
+# 2019 Publications
+- id: doi:10.1371/journal.pone.0211431
+  type: paper
+  tags: [NEC, exosomes]
+
+- id: doi:10.1139/cjpp-2018-0370
+  type: paper
+  tags: [maternal separation]
+
+- id: doi:10.1007/s00383-018-4369-3
+  type: paper
+  tags: [organoids]
+
+- id: doi:10.12688/f1000research.17228.1
+  type: paper
+  tags: [NEC, review]
+
+- id: doi:10.1186/s12974-019-1481-9
+  type: paper
+  tags: [NEC, neuroinflammation]
+
+- id: doi:10.1242/dmm.040998
+  type: paper
+  tags: [NEC, microcirculation]
+
+- id: doi:10.1055/s-0039-1693994
+  type: paper
+  tags: [NEC, review]
+
+- id: doi:10.1007/s00383-019-04586-y
+  type: paper
+  tags: [vitamin D]
+
+- id: doi:10.1016/j.jpedsurg.2019.08.046
+  type: paper
+  tags: [lactoferrin]
+
+- id: doi:10.1007/s00383-019-04559-1
+  type: paper
+  tags: [Hirschsprung disease]
+
+- id: doi:10.1016/j.jpedsurg.2019.08.038
+  type: paper
+  tags: [NEC]
+
+- id: doi:10.1007/s00383-019-04566-2
+  type: paper
+  tags: [autophagy]
+
+# 2018 Publications
+- id: doi:10.1053/j.sempedsurg.2017.11.011
+  type: paper
+  tags: [NEC, stem cells, review]
+
+- id: doi:10.1007/978-1-4939-7714-7_6
+  type: paper
+  tags: [methods, imaging]
+
+- id: doi:10.1007/s00383-017-4183-3
+  type: paper
+  tags: [stress, epithelium]
+
+- id: doi:10.1152/ajpgi.00101.2018
+  type: paper
+  tags: [nutrition, microbiome]
+
+- id: doi:10.1016/j.jpedsurg.2018.02.006
+  type: paper
+  tags: [NEC, liver]
+
+- id: doi:10.1055/s-0037-1607061
+  type: paper
+  tags: [Hirschsprung disease, meta-analysis]
+
+# 2017 Publications
+- id: doi:10.1038/srep46616
+  type: paper
+  tags: [CRH, epithelium]
+
+- id: doi:10.1016/j.jpedsurg.2016.10.013
+  type: paper
+  tags: [maternal separation, hydrogen sulfide]
+
+- id: doi:10.1016/j.jpedsurg.2017.01.032
+  type: paper
+  tags: [breast milk, exosomes]
+
+- id: doi:10.1016/j.jpedsurg.2017.01.031
+  type: paper
+  tags: [NEC, gastric emptying]
+
+- id: doi:10.1186/s40168-017-0357-4
+  type: paper
+  tags: [oligosaccharides, microbiome]
+
+# 2016 Publications
+- id: doi:10.1016/j.jpedsurg.2016.02.073
+  type: paper
+  tags: [maternal separation, ER stress]
+
+- id: doi:10.1016/j.jpedsurg.2016.02.019
+  type: paper
+  tags: [hydrogen sulfide]
+
+- id: doi:10.1007/s00383-016-3998-7
+  type: paper
+  tags: [NEC, formula]
+
+- id: doi:10.1007/s00383-015-3813-x
+  type: paper
+  tags: [NEC, models]
+
+# 2014 Publication
+- id: doi:10.1007/s00383-014-3611-x
+  type: paper
+  tags: [maternal separation]
+
+# 2009 Publication
+- id: doi:10.1242/dev.036954
+  type: paper
+  tags: [neural crest, development]

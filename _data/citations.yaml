@@ -18,13 +18,10 @@
   date: '2026-01-26'
   link: https://doi.org/hbtf7d
   type: paper
-  description: Comprehensive review exploring the complex pathophysiology of necrotizing
-    enterocolitis in preterm neonates.
   image: images/publication_ar.png
   tags:
   - NEC
   - review
-  - pathophysiology
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.jcmgh.2026.101730
@@ -57,13 +54,10 @@
   date: '2026-01-01'
   link: https://doi.org/hbtf7f
   type: paper
-  description: Molecular and chromatin accessibility programs underlying epithelial
-    injury and impaired regeneration in neonatal necrotizing enterocolitis.
   image: images/publication_cmgh.png
   tags:
   - NEC
   - genomics
-  - regeneration
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1126/scitranslmed.adp4679
@@ -104,13 +98,9 @@
   date: '2025-07-30'
   link: https://doi.org/hbtf7g
   type: paper
-  description: Impairment of stromal-epithelial regenerative cross-talk in Hirschsprung
-    disease primes for the progression to enterocolitis.
   image: images/publication_stm.png
   tags:
   - Hirschsprung disease
-  - regeneration
-  - enterocolitis
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41467-020-18750-9
@@ -145,13 +135,10 @@
   date: '2020-10-02'
   link: https://doi.org/hbtf7h
   type: paper
-  description: Remote ischemic conditioning counteracts the intestinal damage of necrotizing
-    enterocolitis by improving intestinal microcirculation.
   image: images/publication_nc.png
   tags:
   - NEC
   - therapy
-  - microcirculation
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41419-019-1987-1
@@ -186,12 +173,1995 @@
   date: '2019-10-03'
   link: https://doi.org/hbtf7j
   type: paper
-  description: "Impaired Wnt/\u03B2-catenin pathway leads to dysfunction of intestinal\
-    \ regeneration during necrotizing enterocolitis."
   image: images/publication_cdd.png
   tags:
   - NEC
   - Wnt signaling
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jpedsurg.2026.162963
+  title: "Short-chain fructooligosaccharides protect against intestinal injury in\
+    \ NEC by restoring AKT/GSK-3\u03B2 signaling"
+  authors:
+  - Yingying Huang
+  - Bo Zhang
+  - Richard Y. Wu
+  - Carol Lee
+  - Bo Li
+  - Philip Sherman
+  - Agostino Pierro
+  - Haitao Zhu
+  publisher: Journal of Pediatric Surgery
+  date: '2026-01-01'
+  link: https://doi.org/hbtgg5
+  type: paper
+  tags:
+  - NEC
+  - nutrition
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/stcltm/szaf052
+  title: Anti-fibrotic effect of human amniotic fluid stem cells in biliary epithelial-mesenchymal
+    transition of liver ductal organoid
+  authors:
+  - Sinobol Chusilp
+  - Poramate Klanrit
+  - Carol Lee
+  - Dorothy Lee
+  - Bo Li
+  - Felicia Balsamo
+  - Kanokrat Thaiwatcharamas
+  - Patchareeporn Tanming
+  - Dolrudee Aroonsaeng
+  - Paisarn Vejchapipat
+  - Agostino Pierro
+  publisher: Stem Cells Translational Medicine
+  date: '2025-09-28'
+  link: https://doi.org/hbtgg6
+  type: paper
+  tags:
+  - biliary atresia
   - stem cells
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00383-025-06248-8
+  title: Remote ischemic conditioning modulates the healing process after intestinal
+    anastomosis
+  authors:
+  - Masahiro Shimizu
+  - George Biouss
+  - Jielin Yang
+  - Naho Fujiwara
+  - Bo Li
+  - Carol Lee
+  - Dorothy Lee
+  - Felicia Balsamo
+  - Fabiola Cassaro
+  - Mina Yeganeh
+  - Andrea Zito
+  - Naoki Hashizume
+  - Koshiro Sugita
+  - Go Miyano
+  - Atsuyuki Yamataka
+  - Agostino Pierro
+  publisher: Pediatric Surgery International
+  date: '2025-11-20'
+  link: https://doi.org/hbtgg7
+  type: paper
+  tags:
+  - anastomosis
+  - conditioning
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00383-025-06240-2
+  title: Ferrostatin-1 protects against necrotizing enterocolitis intestinal injury
+    by inhibiting ferroptosis
+  authors:
+  - Chen-Yi Wang
+  - Mehrsa Feizi
+  - Bo Li
+  - Carol Lee
+  - Dorothy Lee
+  - Jielin Yang
+  - Ying Kang
+  - Yu-Zuo Bai
+  - Agostino Pierro
+  publisher: Pediatric Surgery International
+  date: '2025-11-26'
+  link: https://doi.org/hbtgg8
+  type: paper
+  tags:
+  - NEC
+  - ferroptosis
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00383-025-06238-w
+  title: 'Remote ischemic conditioning in necrotizing enterocolitis: an extended phase
+    I safety study'
+  authors:
+  - Yongfang Wu
+  - Niloofar Ganji
+  - Zhou Chen
+  - Mingzhe Hu
+  - Dan Li
+  - Bo Li
+  - Ying Huang
+  - Agostino Pierro
+  - Haitao Zhu
+  publisher: Pediatric Surgery International
+  date: '2025-12-20'
+  link: https://doi.org/hbtgg9
+  type: paper
+  tags:
+  - NEC
+  - conditioning
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.clnu.2025.09.015
+  title: Omega-3 polyunsaturated fatty acids and the eicosapentaenoic acid metabolite
+    18-hydroxyeicosapentaenoic acid (18-HEPE) attenuate experimental necrotizing enterocolitis
+  authors:
+  - Hiromu Miyake
+  - Kathryn E. Hopperton
+  - "Pekka M\xE4\xE4tt\xE4nen"
+  - Yuhki Koike
+  - Yong Chen
+  - Bo Li
+  - Carol Lee
+  - Shogo Seo
+  - Philip M. Sherman
+  - Richard P. Bazinet
+  - Agostino Pierro
+  publisher: Clinical Nutrition
+  date: '2025-12-01'
+  link: https://doi.org/hbtghb
+  type: paper
+  tags:
+  - NEC
+  - nutrition
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00383-024-05957-w
+  title: Glucagon-like peptides agonists promote maturation of intestinal organoids
+    derived from neonates with necrotizing enterocolitis
+  authors:
+  - George Biouss
+  - Carol Lee
+  - Bo Li
+  - Khosrow Adeli
+  - Agostino Pierro
+  publisher: Pediatric Surgery International
+  date: '2025-01-19'
+  link: https://doi.org/hbtghc
+  type: paper
+  tags:
+  - NEC
+  - organoids
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jpedsurg.2025.162217
+  title: 'Clinical Characteristics and Postoperative Functional Outcomes in Children
+    With Mowat-Wilson Syndrome and Hirschsprung''s Disease: A Single-center Study'
+  authors:
+  - Tianran Cheng
+  - Zhen Zhang
+  - Ruijie Zhou
+  - Weike Liu
+  - Ping Xiao
+  - Lihua Wu
+  - Ya Ma
+  - Wenquan Niu
+  - Yong Chen
+  - Bo Li
+  - Agostino Pierro
+  - Long Li
+  - Qian Jiang
+  - Qi Li
+  publisher: Journal of Pediatric Surgery
+  date: '2025-04-01'
+  link: https://doi.org/hbtghd
+  type: paper
+  tags:
+  - Hirschsprung disease
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1136/wjps-2025-001057
+  title: Predictive value of plasma zonulin for postoperative Hirschsprung-associated
+    enterocolitis
+  authors:
+  - Lihua Wu
+  - Ya Gao
+  - Ruijie Zhou
+  - Ping Xiao
+  - Zhen Zhang
+  - Bo Li
+  - Agostino Pierro
+  - Long Li
+  - Qian Jiang
+  - Qi Li
+  publisher: World Journal of Pediatric Surgery
+  date: '2025-06-01'
+  link: https://doi.org/hbtghf
+  type: paper
+  tags:
+  - Hirschsprung disease
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00383-025-06043-5
+  title: Exosomes derived from colostrum and mature human breast milk protect against
+    experimental necrotizing enterocolitis
+  authors:
+  - Runnan Gao
+  - Yingying Huang
+  - Bo Li
+  - Rong Zhang
+  - Carol Lee
+  - Mashriq Alganabi
+  - Masaya Yamoto
+  - Xueni Peng
+  - Weijing He
+  - Yun Cao
+  - Agostino Pierro
+  - Chun Shen
+  - Haitao Zhu
+  publisher: Pediatric Surgery International
+  date: '2025-07-18'
+  link: https://doi.org/hbtghg
+  type: paper
+  tags:
+  - NEC
+  - breast milk
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00383-024-05861-3
+  title: "Enhancement of enteric neural stem cell neurogenesis by glial cell-derived\
+    \ neurotrophic factor in experimental Hirschsprung\u2019s disease"
+  authors:
+  - Naho Fujiwara
+  - Dorothy Lee
+  - Bo Li
+  - Agostino Pierro
+  - Atsuyuki Yamataka
+  publisher: Pediatric Surgery International
+  date: '2024-10-26'
+  link: https://doi.org/hbtghj
+  type: paper
+  tags:
+  - Hirschsprung disease
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41390-024-03236-x
+  title: Translating regenerative medicine therapies in neonatal necrotizing enterocolitis
+  authors:
+  - Niloofar Ganji
+  - Brian Kalish
+  - Martin Offringa
+  - Bo Li
+  - James Anderson
+  - Sylvain Baruchel
+  - Martin Blakely
+  - Paolo De Coppi
+  - Simon Eaton
+  - Estelle Gauda
+  - Nigel Hall
+  - Anna Heath
+  - Michael H. Livingston
+  - Carol McNair
+  - Robert Mitchell
+  - Ketan Patel
+  - Petros Pechlivanoglou
+  - Hazel Pleasants-Terashita
+  - Erin Pryor
+  - Milica Radisic
+  - Prakesh S. Shah
+  - "Bernard Th\xE9baud"
+  - Kasper Wang
+  - Augusto Zani
+  - Agostino Pierro
+  publisher: Pediatric Research
+  date: '2024-05-28'
+  link: https://doi.org/hbtghk
+  type: paper
+  tags:
+  - NEC
+  - regenerative medicine
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/cpr.13618
+  title: "Rack1\u2010mediated ferroptosis affects hindgut development in rats with\
+    \ anorectal malformations: Spatial transcriptome insights"
+  authors:
+  - "Chen\u2010Yi Wang"
+  - "Mu\u2010Yu Li"
+  - "Si\u2010Ying Li"
+  - "Xiao\u2010Gao Wei"
+  - "Nai\u2010Xuan Dong"
+  - "Shu\u2010Ting Liu"
+  - "Zheng\u2010Wei Yuan"
+  - Bo Li
+  - Agostino Pierro
+  - "Xiao\u2010Bing Tang"
+  - "Yu\u2010Zuo Bai"
+  publisher: Cell Proliferation
+  date: '2024-03-25'
+  link: https://doi.org/gtpgqh
+  type: paper
+  tags:
+  - development
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1126/sciadv.adk0164
+  title: Cardiac tissue model of immune-induced dysfunction reveals the role of free
+    mitochondrial DNA and the therapeutic effects of exosomes
+  authors:
+  - Rick Xing Ze Lu
+  - Naimeh Rafatian
+  - Yimu Zhao
+  - Karl T. Wagner
+  - Erika L. Beroncal
+  - Bo Li
+  - Carol Lee
+  - Jingan Chen
+  - Eryn Churcher
+  - Daniel Vosoughi
+  - Chuan Liu
+  - Ying Wang
+  - Andrew Baker
+  - Uriel Trahtemberg
+  - Bowen Li
+  - Agostino Pierro
+  - Ana C. Andreazza
+  - Claudia C. dos Santos
+  - Milica Radisic
+  publisher: Science Advances
+  date: '2024-03-29'
+  link: https://doi.org/g9pq4r
+  type: paper
+  tags:
+  - cardiac
+  - exosomes
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00383-023-05598-5
+  title: Human milk oligosaccharides promote intestinal epithelium regeneration independent
+    of the microbiota during necrotizing enterocolitis
+  authors:
+  - Andrea Zito
+  - Richard Y. Wu
+  - Bo Li
+  - Steven R. Botts
+  - Mehrsa Feizi
+  - Dorothy Lee
+  - Carol Lee
+  - Kathene C. Johnson-Henry
+  - Michael G. Surette
+  - Philip M. Sherman
+  - Agostino Pierro
+  publisher: Pediatric Surgery International
+  date: '2024-01-12'
+  link: https://doi.org/hbtghn
+  type: paper
+  tags:
+  - NEC
+  - HMO
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00383-023-05596-7
+  title: Argon inhalation attenuates systemic inflammation and rescues lung architecture
+    during experimental neonatal sepsis
+  authors:
+  - Felicia Balsamo
+  - Bo Li
+  - Sinobol Chusilp
+  - Dorothy Lee
+  - George Biouss
+  - Carol Lee
+  - Jason T. Maynes
+  - Agostino Pierro
+  publisher: Pediatric Surgery International
+  date: '2023-12-18'
+  link: https://doi.org/hbtghp
+  type: paper
+  tags:
+  - sepsis
+  - argon
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1128/msystems.00431-23
+  title: Intestinal microRNAs and bacterial taxa in juvenile mice are associated,
+    modifiable by allochthonous lactobacilli, and affect postnatal maturation
+  authors:
+  - Amel Taibi
+  - Tomas Tokar
+  - Julien Tremblay
+  - Giorgio Gargari
+  - Catherine J. Streutker
+  - Bo Li
+  - Agostino Pierro
+  - Simone Guglielmetti
+  - Thomas A. Tompkins
+  - Igor Jurisica
+  - Elena M. Comelli
+  publisher: mSystems
+  date: '2023-07-18'
+  link: https://doi.org/hbtghq
+  type: paper
+  tags:
+  - microbiome
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00383-023-05476-0
+  title: 'Necrotizing enterocolitis: recent advances in treatment with translational
+    potential'
+  authors:
+  - Niloofar Ganji
+  - Bo Li
+  - Carol Lee
+  - Agostino Pierro
+  publisher: Pediatric Surgery International
+  date: '2023-05-29'
+  link: https://doi.org/hbtghr
+  type: paper
+  tags:
+  - NEC
+  - review
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.sempedsurg.2023.151312
+  title: Remote ischemic conditioning in necrotizing enterocolitis
+  authors:
+  - Niloofar Ganji
+  - George Biouss
+  - Stella Sabbatini
+  - Bo Li
+  - Carol Lee
+  - Agostino Pierro
+  publisher: Seminars in Pediatric Surgery
+  date: '2023-06-01'
+  link: https://doi.org/hbtghs
+  type: paper
+  tags:
+  - NEC
+  - conditioning
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fped.2023.1089229
+  title: 'Family care reduces the incidence of neonatal sepsis: A systematic review
+    and meta-analysis'
+  authors:
+  - Niloofar Ganji
+  - Mashriq Alganabi
+  - Masaya Yamoto
+  - Sinobol Chusilp
+  - Agostino Pierro
+  - Bo Li
+  publisher: Frontiers in Pediatrics
+  date: '2023-04-12'
+  link: https://doi.org/hbtght
+  type: paper
+  tags:
+  - sepsis
+  - family care
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00383-023-05490-2
+  title: "Bovine milk-derived exosomes attenuate NLRP3 inflammasome and NF-\u03BA\
+    B signaling in the lung during neonatal necrotizing enterocolitis"
+  authors:
+  - Rachel Filler
+  - Mina Yeganeh
+  - Bo Li
+  - Carol Lee
+  - Mashriq Alganabi
+  - Alison Hock
+  - George Biouss
+  - Felicia Balsamo
+  - Dorothy Lee
+  - Hiromu Miyake
+  - Agostino Pierro
+  publisher: Pediatric Surgery International
+  date: '2023-06-03'
+  link: https://doi.org/hbtghv
+  type: paper
+  tags:
+  - NEC
+  - exosomes
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00383-023-05489-9
+  title: 'Development of liver inflammatory injury in biliary atresia: from basic
+    to clinical research'
+  authors:
+  - Sinobol Chusilp
+  - Felicia Balsamo
+  - Bo Li
+  - Paisarn Vejchapipat
+  - Agostino Pierro
+  publisher: Pediatric Surgery International
+  date: '2023-05-30'
+  link: https://doi.org/hbtghw
+  type: paper
+  tags:
+  - biliary atresia
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.sempedsurg.2022.151234
+  title: 'Intestinal atresia and necrotizing enterocolitis: Embryology and anatomy'
+  authors:
+  - S. Sabbatini
+  - N. Ganji
+  - S. Chusilp
+  - F. Balsamo
+  - B. Li
+  - A. Pierro
+  publisher: Seminars in Pediatric Surgery
+  date: '2022-12-01'
+  link: https://doi.org/hbtghx
+  type: paper
+  tags:
+  - intestinal atresia
+  - NEC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.immuni.2022.11.003
+  title: Gut microbiota promotes stem cell differentiation through macrophage and
+    mesenchymal niches in early postnatal development
+  authors:
+  - Ji-Eun Kim
+  - Bo Li
+  - Lijiang Fei
+  - Rachael Horne
+  - Dorothy Lee
+  - Adrian Kwan Ho Loe
+  - Hiromu Miyake
+  - Eda Ayar
+  - Maria Gurma
+  - Dae-Kyum Kim
+  - Michael G. Surette
+  - Dana J. Philpott
+  - Philip Sherman
+  - Guoji Guo
+  - Agostino Pierro
+  - Tae-Hee Kim
+  publisher: Immunity
+  date: '2022-12-01'
+  link: https://doi.org/gtn8sg
+  type: paper
+  tags:
+  - microbiome
+  - development
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fped.2022.1020986
+  title: 'Amniotic fluid stem cells: A novel treatment for necrotizing enterocolitis'
+  authors:
+  - Felicia Balsamo
+  - Yina Tian
+  - Agostino Pierro
+  - Bo Li
+  publisher: Frontiers in Pediatrics
+  date: '2022-12-01'
+  link: https://doi.org/hbtghz
+  type: paper
+  tags:
+  - NEC
+  - stem cells
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41390-021-01657-6
+  title: Amniotic fluid stem cell administration can prevent epithelial injury from
+    necrotizing enterocolitis
+  authors:
+  - Bo Li
+  - Carol Lee
+  - Marissa Cadete
+  - "Joshua S. O\u2019Connell"
+  - Mashriq Alganabi
+  - Dorothy Lee
+  - Niloofar Ganji
+  - Hiromu Miyake
+  - Steven R. Botts
+  - Kathene C. Johnson-Henry
+  - Pekka Maattanen
+  - Philip M. Sherman
+  - Agostino Pierro
+  publisher: Pediatric Research
+  date: '2021-09-24'
+  link: https://doi.org/hbtgh2
+  type: paper
+  tags:
+  - NEC
+  - stem cells
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/mnfr.202100893
+  title: "Structure\u2013Function Relationships of Human Milk Oligosaccharides on\
+    \ the Intestinal Epithelial Transcriptome in Caco\u20102 Cells and a Murine Model\
+    \ of Necrotizing Enterocolitis"
+  authors:
+  - Richard Y. Wu
+  - Bo Li
+  - Rachael G. Horne
+  - Abdalla Ahmed
+  - Dorothy Lee
+  - Shaiya C. Robinson
+  - Haitao Zhu
+  - Marissa Cadete
+  - Mashriq Alganabi
+  - Rachel Filler
+  - "Kathene C. Johnson\u2010Henry"
+  - "Paul Delgado\u2010Olguin"
+  - Agostino Pierro
+  - Philip M. Sherman
+  publisher: Molecular Nutrition &amp; Food Research
+  date: '2021-12-29'
+  link: https://doi.org/hbtgh3
+  type: paper
+  tags:
+  - NEC
+  - HMO
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00383-022-05093-3
+  title: Remote ischemic conditioning causes CD4 T cells shift towards reduced cell-mediated
+    inflammation
+  authors:
+  - Mashriq Alganabi
+  - George Biouss
+  - Niloofar Ganji
+  - Masaya Yamoto
+  - Carol Lee
+  - Bo Li
+  - Agostino Pierro
+  publisher: Pediatric Surgery International
+  date: '2022-03-04'
+  link: https://doi.org/hbtgh4
+  type: paper
+  tags:
+  - conditioning
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00383-022-05095-1
+  title: 'Remote ischemic conditioning in necrotizing enterocolitis: study protocol
+    of a multi-center phase II feasibility randomized controlled trial'
+  authors:
+  - Niloofar Ganji
+  - Bo Li
+  - Irfan Ahmad
+  - Alan Daneman
+  - Poorva Deshpande
+  - Vijay Dhar
+  - Simon Eaton
+  - Ricardo Faingold
+  - Estelle B. Gauda
+  - Nigel Hall
+  - Salhab el Helou
+  - Mustafa H. Kabeer
+  - Jae H. Kim
+  - Alice King
+  - Michael H. Livingston
+  - Eugene Ng
+  - Martin Offringa
+  - Elena Palleri
+  - Mark Walton
+  - David E. Wesson
+  - Tomas Wester
+  - Rene M. H. Wijnen
+  - Andrew Willan
+  - Rosanna Yankanah
+  - Carlos Zozaya
+  - Prakesh S. Shah
+  - Agostino Pierro
+  publisher: Pediatric Surgery International
+  date: '2022-03-16'
+  link: https://doi.org/gpr22p
+  type: paper
+  tags:
+  - NEC
+  - clinical trial
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jpedsurg.2022.02.029
+  title: Human breast milk-derived exosomes protect against intestinal ischemia and
+    reperfusion injury in neonatal rats
+  authors:
+  - Lili Wang
+  - Runnan Gao
+  - Bo Li
+  - Mashriq Alganabi
+  - Weijing He
+  - Chun Shen
+  - Haitao Zhu
+  - Agostino Pierro
+  publisher: Journal of Pediatric Surgery
+  date: '2022-07-01'
+  link: https://doi.org/gtq2f3
+  type: paper
+  tags:
+  - NEC
+  - breast milk
+  - exosomes
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1055/s-0042-1745780
+  title: 'Hirschsprung-Associated Enterocolitis: Transformative Research from Bench
+    to Bedside'
+  authors:
+  - Zhen Zhang
+  - Bo Li
+  - Qian Jiang
+  - Qi Li
+  - Agostino Pierro
+  - Long Li
+  publisher: European Journal of Pediatric Surgery
+  date: '2022-06-01'
+  link: https://doi.org/hbtgh5
+  type: paper
+  tags:
+  - Hirschsprung disease
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1136/archdischild-2022-324174
+  title: 'Remote ischaemic conditioning in necrotising enterocolitis: a phase I feasibility
+    and safety study'
+  authors:
+  - Carlos Zozaya
+  - Niloofar Ganji
+  - Bo Li
+  - Maarten Janssen Lok
+  - Carol Lee
+  - Yuhki Koike
+  - Estelle Gauda
+  - Martin Offringa
+  - Simon Eaton
+  - Prakeshkumar S Shah
+  - Agostino Pierro
+  publisher: Archives of Disease in Childhood - Fetal and Neonatal Edition
+  date: '2022-08-08'
+  link: https://doi.org/hbtgh6
+  type: paper
+  tags:
+  - NEC
+  - conditioning
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1096/fj.202001426R
+  title: Intestinal epithelial tight junctions and permeability can be rescued through
+    the regulation of endoplasmic reticulum stress by amniotic fluid stem cells during
+    necrotizing enterocolitis
+  authors:
+  - Bo Li
+  - Carol Lee
+  - Sinobol Chuslip
+  - Dorothy Lee
+  - George Biouss
+  - Richard Wu
+  - Yuhki Koike
+  - Hiromu Miyake
+  - Wan Ip
+  - Tanja Gonska
+  - Agostino Pierro
+  publisher: The FASEB Journal
+  date: '2020-12-29'
+  link: https://doi.org/hbtgh7
+  type: paper
+  tags:
+  - NEC
+  - stem cells
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0260522
+  title: Treatment of necrotizing enterocolitis by conditioned medium derived from
+    human amniotic fluid stem cells
+  authors:
+  - "Joshua S. O\u2019Connell"
+  - Bo Li
+  - Andrea Zito
+  - Abdalla Ahmed
+  - Marissa Cadete
+  - Niloofar Ganji
+  - Ethan Lau
+  - Mashriq Alganabi
+  - Nassim Farhat
+  - Carol Lee
+  - Simon Eaton
+  - Robert Mitchell
+  - Steve Ray
+  - Paolo De Coppi
+  - Ketan Patel
+  - Agostino Pierro
+  publisher: PLOS ONE
+  date: '2021-12-02'
+  link: https://doi.org/hbtgh8
+  type: paper
+  tags:
+  - NEC
+  - stem cells
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1126/scitranslmed.aax5941
+  title: Fetal lung underdevelopment is rescued by administration of amniotic fluid
+    stem cell extracellular vesicles in rodents
+  authors:
+  - Lina Antounians
+  - Vincenzo D. Catania
+  - Louise Montalva
+  - Benjamin D. Liu
+  - Huayun Hou
+  - Cadia Chan
+  - Andreea C. Matei
+  - Areti Tzanetakis
+  - Bo Li
+  - Rebeca L. Figueira
+  - Karina M. da Costa
+  - Amy P. Wong
+  - Robert Mitchell
+  - Anna L. David
+  - Ketan Patel
+  - Paolo De Coppi
+  - "Louren\xE7o Sbragia"
+  - Michael D. Wilson
+  - Janet Rossant
+  - Augusto Zani
+  publisher: Science Translational Medicine
+  date: '2021-04-21'
+  link: https://doi.org/gnzmfn
+  type: paper
+  tags:
+  - lung
+  - stem cells
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00383-020-04816-8
+  title: 'Hepatic oxidative injury: role of mitochondrial dysfunction in necrotizing
+    enterocolitis'
+  authors:
+  - Edoardo Bindi
+  - Mashriq Alganabi
+  - George Biouss
+  - Jia Liu
+  - Bo Li
+  - Hiromu Miyake
+  - Rossella Angotti
+  - Agostino Pierro
+  publisher: Pediatric Surgery International
+  date: '2021-02-06'
+  link: https://doi.org/gsjvn5
+  type: paper
+  tags:
+  - NEC
+  - liver
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jpedsurg.2020.09.043
+  title: Human amniotic fluid stem cells attenuate cholangiocyte apoptosis in a bile
+    duct injury model of liver ductal organoids
+  authors:
+  - Sinobol Chusilp
+  - Carol Lee
+  - Bo Li
+  - Dorothy Lee
+  - Masaya Yamoto
+  - Niloofar Ganji
+  - Paisarn Vejchapipat
+  - Agostino Pierro
+  publisher: Journal of Pediatric Surgery
+  date: '2021-01-01'
+  link: https://doi.org/hbtgh9
+  type: paper
+  tags:
+  - biliary atresia
+  - organoids
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00383-020-04819-5
+  title: Doppler ultrasound assessment of splanchnic perfusion and heart rate for
+    the detection of necrotizing enterocolitis
+  authors:
+  - Niloofar Ganji
+  - Yuhki Koike
+  - Bo Li
+  - Haitao Zhu
+  - Ethan Lau
+  - Maarten Janssen Lok
+  - Carol Lee
+  - Agostino Pierro
+  publisher: Pediatric Surgery International
+  date: '2021-02-12'
+  link: https://doi.org/hbtgjb
+  type: paper
+  tags:
+  - NEC
+  - ultrasound
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.21769/BioProtoc.3937
+  title: Live Intravital Intestine with Blood Flow Visualization in Neonatal Mice
+    Using Two-photon Laser Scanning Microscopy
+  authors:
+  - Yuhki Koike
+  - Bo Li
+  - Yong Chen
+  - Niloofar Ganji
+  - Mashriq Alganabi
+  - Hiromu Miyake
+  - Carol Lee
+  - Alison Hock
+  - Richard Wu
+  - Keiichi Uchida
+  - Mikihiro Inoue
+  - Paul Delgado Olguin
+  - Agostino Pierro
+  publisher: BIO-PROTOCOL
+  date: '2021-01-01'
+  link: https://doi.org/gq58jg
+  type: paper
+  tags:
+  - methods
+  - imaging
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00383-021-04929-8
+  title: Endoplasmic reticulum stress in the acute intestinal epithelial injury of
+    necrotizing enterocolitis
+  authors:
+  - Ethan Lau
+  - Carol Lee
+  - Bo Li
+  - Agostino Pierro
+  publisher: Pediatric Surgery International
+  date: '2021-06-12'
+  link: https://doi.org/hbtgjc
+  type: paper
+  tags:
+  - NEC
+  - ER stress
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41598-021-86920-w
+  title: Extracellular vesicles isolated from milk can improve gut barrier dysfunction
+    induced by malnutrition
+  authors:
+  - Mohamed Karim Maghraby
+  - Bo Li
+  - Lijun Chi
+  - Catriona Ling
+  - Abderrahim Benmoussa
+  - Patrick Provost
+  - Andrea C. Postmus
+  - Abdirahman Abdi
+  - Agostino Pierro
+  - Celine Bourdon
+  - Robert H. J. Bandsma
+  publisher: Scientific Reports
+  date: '2021-04-07'
+  link: https://doi.org/gbgf
+  type: paper
+  tags:
+  - nutrition
+  - microbiome
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00383-020-04826-6
+  title: 'Administration of extracellular vesicles derived from human amniotic fluid
+    stem cells: a new treatment for necrotizing enterocolitis'
+  authors:
+  - "Joshua S. O\u2019Connell"
+  - Carol Lee
+  - Nassim Farhat
+  - Lina Antounians
+  - Augusto Zani
+  - Bo Li
+  - Agostino Pierro
+  publisher: Pediatric Surgery International
+  date: '2021-02-10'
+  link: https://doi.org/hbtgjd
+  type: paper
+  tags:
+  - NEC
+  - stem cells
+  - exosomes
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00383-020-04831-9
+  title: Remote ischemic conditioning avoids the development of intestinal damage
+    after ischemia reperfusion by reducing intestinal inflammation and increasing
+    intestinal regeneration
+  authors:
+  - Haitao Zhu
+  - Bo Li
+  - Edoardo Bindi
+  - Carol Lee
+  - Mashriq Alganabi
+  - Maarten Janssen Lok
+  - Agostino Pierro
+  publisher: Pediatric Surgery International
+  date: '2021-02-08'
+  link: https://doi.org/hbtgjf
+  type: paper
+  tags:
+  - conditioning
+  - regeneration
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41419-020-02964-2
+  title: Activation of Wnt signaling by amniotic fluid stem cell-derived extracellular
+    vesicles attenuates intestinal injury in experimental necrotizing enterocolitis
+  authors:
+  - Bo Li
+  - Carol Lee
+  - "Joshua S. O\u2019Connell"
+  - Lina Antounians
+  - Niloofar Ganji
+  - Mashriq Alganabi
+  - Marissa Cadete
+  - Francesca Nascimben
+  - Yuhki Koike
+  - Alison Hock
+  - Steven R. Botts
+  - Richard Y. Wu
+  - Hiromu Miyake
+  - Adam Minich
+  - Michael F. Maalouf
+  - Elke Zani-Ruttenstock
+  - Yong Chen
+  - Kathene C. Johnson-Henry
+  - Paolo De Coppi
+  - Simon Eaton
+  - Pekka Maattanen
+  - Paul Delgado Olguin
+  - Augusto Zani
+  - Philip M. Sherman
+  - Agostino Pierro
+  publisher: Cell Death &amp; Disease
+  date: '2020-09-14'
+  link: https://doi.org/hbtgjg
+  type: paper
+  tags:
+  - NEC
+  - stem cells
+  - Wnt
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/mnfr.202000519
+  title: Human Milk Oligosaccharides Protect against Necrotizing Enterocolitis by
+    Activating Intestinal Cell Differentiation
+  authors:
+  - Bo Li
+  - Richard You Wu
+  - Rachael G. Horne
+  - Abdalla Ahmed
+  - Dorothy Lee
+  - Shaiya C. Robinson
+  - Haitao Zhu
+  - Carol Lee
+  - Marissa Cadete
+  - "Kathene C. Johnson\u2010Henry"
+  - Eva Landberg
+  - Mashriq Alganabi
+  - Thomas Abrahamsson
+  - "Paul Delgado\u2010Olguin"
+  - Agostino Pierro
+  - Philip M. Sherman
+  publisher: Molecular Nutrition &amp; Food Research
+  date: '2020-10-04'
+  link: https://doi.org/ghjpnc
+  type: paper
+  tags:
+  - NEC
+  - HMO
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1096/fj.201902892RR
+  title: "The intestinal injury caused by ischemia\u2010reperfusion is attenuated\
+    \ by amniotic fluid stem cells via the release of tumor necrosis factor\u2010\
+    stimulated gene 6 protein"
+  authors:
+  - Yuhki Koike
+  - Bo Li
+  - Carol Lee
+  - Mashriq Alganabi
+  - Haitao Zhu
+  - Sinobol Chusilp
+  - Dorothy Lee
+  - Shigang Cheng
+  - Qi Li
+  - Agostino Pierro
+  publisher: The FASEB Journal
+  date: '2020-03-29'
+  link: https://doi.org/gmt5qn
+  type: paper
+  tags:
+  - NEC
+  - stem cells
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00383-019-04615-w
+  title: Calcium/calmodulin-dependent protein kinase IV signaling pathway is upregulated
+    in experimental necrotizing enterocolitis
+  authors:
+  - Mashriq Alganabi
+  - Haitao Zhu
+  - "Joshua S. O\u2019Connell"
+  - George Biouss
+  - Andrea Zito
+  - Bo Li
+  - Edoardo Bindi
+  - Agostino Pierro
+  publisher: Pediatric Surgery International
+  date: '2020-01-16'
+  link: https://doi.org/hbtgjh
+  type: paper
+  tags:
+  - NEC
+  - signaling
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1055/s-0039-1697910
+  title: 'Mitochondrial DNA: A Biomarker of Disease Severity in Necrotizing Enterocolitis'
+  authors:
+  - Edoardo Bindi
+  - Bo Li
+  - Haitao Zhou
+  - Maarten Janssen Lok
+  - Mashriq Alganabi
+  - Rossella Angotti
+  - Agostino Pierro
+  publisher: European Journal of Pediatric Surgery
+  date: '2019-10-10'
+  link: https://doi.org/gpbw94
+  type: paper
+  tags:
+  - NEC
+  - biomarkers
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00383-020-04765-2
+  title: A novel model of injured liver ductal organoids to investigate cholangiocyte
+    apoptosis with relevance to biliary atresia
+  authors:
+  - Sinobol Chusilp
+  - Carol Lee
+  - Bo Li
+  - Dorothy Lee
+  - Masaya Yamoto
+  - Niloofar Ganji
+  - Paisarn Vejchapipat
+  - Agostino Pierro
+  publisher: Pediatric Surgery International
+  date: '2020-10-21'
+  link: https://doi.org/hbtgjj
+  type: paper
+  tags:
+  - biliary atresia
+  - organoids
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00383-019-04581-3
+  title: Intestinal organoids in infants and children
+  authors:
+  - Sinobol Chusilp
+  - Bo Li
+  - Dorothy Lee
+  - Carol Lee
+  - Paisarn Vejchapipat
+  - Agostino Pierro
+  publisher: Pediatric Surgery International
+  date: '2019-09-25'
+  link: https://doi.org/ggwxtb
+  type: paper
+  tags:
+  - organoids
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00383-020-04710-3
+  title: 'Amniotic fluid and breast milk: a rationale for breast milk stem cell therapy
+    in neonatal diseases'
+  authors:
+  - Rachel Filler
+  - Bo Li
+  - Sinobol Chusilp
+  - Agostino Pierro
+  publisher: Pediatric Surgery International
+  date: '2020-07-15'
+  link: https://doi.org/hbtgjk
+  type: paper
+  tags:
+  - breast milk
+  - stem cells
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jpedsurg.2020.02.035
+  title: Fecal microbiota transplantation by enema reduces intestinal injury in experimental
+    necrotizing enterocolitis
+  authors:
+  - Jia Liu
+  - Hiromu Miyake
+  - Haitao Zhu
+  - Bo Li
+  - Mashriq Alganabi
+  - Carol Lee
+  - Agostino Pierro
+  publisher: Journal of Pediatric Surgery
+  date: '2020-06-01'
+  link: https://doi.org/gsjvsb
+  type: paper
+  tags:
+  - NEC
+  - microbiota
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jpedsurg.2020.02.036
+  title: Beneficial effects of butyrate in intestinal injury
+  authors:
+  - Jia Liu
+  - Haitao Zhu
+  - Bo Li
+  - Carol Lee
+  - Mashriq Alganabi
+  - Shan Zheng
+  - Agostino Pierro
+  publisher: Journal of Pediatric Surgery
+  date: '2020-06-01'
+  link: https://doi.org/hbtgjm
+  type: paper
+  tags:
+  - butyrate
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1055/s-0039-1693728
+  title: Lactoferrin Reduces Necrotizing Enterocolitis Severity by Upregulating Intestinal
+    Epithelial Proliferation
+  authors:
+  - Jia Liu
+  - Haitao Zhu
+  - Bo Li
+  - Shaiya C. Robinson
+  - Carol Lee
+  - Joshua S. O'Connell
+  - Edoardo Bindi
+  - Shan Zheng
+  - Philip M. Sherman
+  - Agostino Pierro
+  publisher: European Journal of Pediatric Surgery
+  date: '2019-07-25'
+  link: https://doi.org/gnsktw
+  type: paper
+  tags:
+  - NEC
+  - lactoferrin
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fnut.2020.00083
+  title: Vitamin B12 Deficiency Alters the Gut Microbiota in a Murine Model of Colitis
+  authors:
+  - Eberhard Lurz
+  - Rachael G. Horne
+  - "Pekka M\xE4\xE4tt\xE4nen"
+  - Richard Y. Wu
+  - Steven R. Botts
+  - Bo Li
+  - Laura Rossi
+  - Kathene C. Johnson-Henry
+  - Agostino Pierro
+  - Michael G. Surette
+  - Philip M. Sherman
+  publisher: Frontiers in Nutrition
+  date: '2020-06-05'
+  link: https://doi.org/ghzx9b
+  type: paper
+  tags:
+  - microbiome
+  - vitamin B12
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/mnfr.201900873
+  title: "Plant\u2010 and Fish\u2010Derived n\u20103 PUFAs Suppress <i>Citrobacter\
+    \ Rodentium</i>\u2013Induced Colonic Inflammation"
+  authors:
+  - "Pekka M\xE4\xE4tt\xE4nen"
+  - Eberhard Lurz
+  - Steven R. Botts
+  - Richard Y. Wu
+  - Shaiya C. Robinson
+  - C. William Yeung
+  - Romain Colas
+  - Bo Li
+  - "Kathene C. Johnson\u2010Henry"
+  - Marc E. Surette
+  - Jesmond Dalli
+  - Philip M. Sherman
+  publisher: Molecular Nutrition &amp; Food Research
+  date: '2020-02-12'
+  link: https://doi.org/hbtgjn
+  type: paper
+  tags:
+  - nutrition
+  - inflammation
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00383-020-04762-5
+  title: The effect of pre- and post-remote ischemic conditioning reduces the injury
+    associated with intestinal ischemia/reperfusion
+  authors:
+  - Hiromu Miyake
+  - Yuhki Koike
+  - Shogo Seo
+  - Carol Lee
+  - Bo Li
+  - Niloofar Ganji
+  - Agostino Pierro
+  publisher: Pediatric Surgery International
+  date: '2020-10-17'
+  link: https://doi.org/hbtgjp
+  type: paper
+  tags:
+  - conditioning
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00383-019-04599-7
+  title: Human breast milk exosomes attenuate intestinal damage
+  authors:
+  - Hiromu Miyake
+  - Carol Lee
+  - Sinobol Chusilp
+  - Manvi Bhalla
+  - Bo Li
+  - Michael Pitino
+  - Shogo Seo
+  - "Deborah L. O\u2019Connor"
+  - Agostino Pierro
+  publisher: Pediatric Surgery International
+  date: '2019-11-12'
+  link: https://doi.org/gmr4wf
+  type: paper
+  tags:
+  - breast milk
+  - exosomes
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1055/s-0039-1693726
+  title: Liver Organoids Generated from Mice with Necrotizing Enterocolitis Have Reduced
+    Regenerative Capacity
+  authors:
+  - Hiromu Miyake
+  - Carol Lee
+  - Shogo Seo
+  - Bo Li
+  - Agostino Pierro
+  publisher: European Journal of Pediatric Surgery
+  date: '2019-07-31'
+  link: https://doi.org/gsjvr6
+  type: paper
+  tags:
+  - NEC
+  - organoids
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00383-020-04724-x
+  title: Lysosomal overloading and necrotizing enterocolitis
+  authors:
+  - Masaya Yamoto
+  - Mashriq Alganabi
+  - Sinobol Chusilp
+  - Dorothy Lee
+  - Yuta Yazaki
+  - Carol Lee
+  - Bo Li
+  - Agostino Pierro
+  publisher: Pediatric Surgery International
+  date: '2020-08-01'
+  link: https://doi.org/grgppz
+  type: paper
+  tags:
+  - NEC
+  - autophagy
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0211431
+  title: Bovine milk-derived exosomes enhance goblet cell activity and prevent the
+    development of experimental necrotizing enterocolitis
+  authors:
+  - Bo Li
+  - Alison Hock
+  - Richard Y. Wu
+  - Adam Minich
+  - Steven R. Botts
+  - Carol Lee
+  - Lina Antounians
+  - Hiromu Miyake
+  - Yuhki Koike
+  - Yong Chen
+  - Augusto Zani
+  - Philip M. Sherman
+  - Agostino Pierro
+  publisher: PLOS ONE
+  date: '2019-01-30'
+  link: https://doi.org/gmr4x4
+  type: paper
+  tags:
+  - NEC
+  - exosomes
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1139/cjpp-2018-0370
+  title: 'Neonatal intestinal injury induced by maternal separation: pathogenesis
+    and pharmacological targets'
+  authors:
+  - Bo Li
+  - Fang Zhou Yu
+  - Adam Minich
+  - Alison Hock
+  - Carol Lee
+  - Agostino Pierro
+  publisher: Canadian Journal of Physiology and Pharmacology
+  date: '2019-03-01'
+  link: https://doi.org/hbtgjq
+  type: paper
+  tags:
+  - maternal separation
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00383-018-4369-3
+  title: Neonatal intestinal organoids as an ex vivo approach to study early intestinal
+    epithelial disorders
+  authors:
+  - Bo Li
+  - Carol Lee
+  - Marissa Cadete
+  - Hiromu Miyake
+  - Dorothy Lee
+  - Agostino Pierro
+  publisher: Pediatric Surgery International
+  date: '2018-10-31'
+  link: https://doi.org/hbtgjr
+  type: paper
+  tags:
+  - organoids
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.12688/f1000research.17228.1
+  title: Recent advances in understanding necrotizing enterocolitis
+  authors:
+  - Mashriq Alganabi
+  - Carol Lee
+  - Edoardo Bindi
+  - Bo Li
+  - Agostino Pierro
+  publisher: F1000Research
+  date: '2019-01-25'
+  link: https://doi.org/gfvqq4
+  type: paper
+  tags:
+  - NEC
+  - review
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12974-019-1481-9
+  title: Experimental necrotizing enterocolitis induces neuroinflammation in the neonatal
+    brain
+  authors:
+  - George Biouss
+  - Lina Antounians
+  - Bo Li
+  - "Joshua S. O\u2019Connell"
+  - Shogo Seo
+  - Vincenzo D. Catania
+  - Jennifer Guadagno
+  - Abidur Rahman
+  - Elke Zani-Ruttenstock
+  - Nataliia Svergun
+  - Agostino Pierro
+  - Augusto Zani
+  publisher: Journal of Neuroinflammation
+  date: '2019-05-10'
+  link: https://doi.org/hbtgjs
+  type: paper
+  tags:
+  - NEC
+  - neuroinflammation
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1242/dmm.040998
+  title: Formula Feeding and Immature Gut Microcirculation Promote Intestinal Hypoxia
+    leading to Necrotizing Enterocolitis
+  authors:
+  - Yong Chen
+  - Yuhki Koike
+  - Lijun Chi
+  - Abdalla Ahmed
+  - Hiromu Miyake
+  - Bo Li
+  - Carol Lee
+  - "Paul Delgado-Olgu\xEDn"
+  - Agostino Pierro
+  publisher: Disease Models &amp; Mechanisms
+  date: '2019-01-01'
+  link: https://doi.org/hbtgjt
+  type: paper
+  tags:
+  - NEC
+  - microcirculation
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1055/s-0039-1693994
+  title: 'Necrotizing Enterocolitis: State of the Art in Translating Experimental
+    Research to the Bedside'
+  authors:
+  - Niloofar Ganji
+  - Bo Li
+  - Carol Lee
+  - Rachel Filler
+  - Agostino Pierro
+  publisher: European Journal of Pediatric Surgery
+  date: '2019-08-01'
+  link: https://doi.org/hbtgjv
+  type: paper
+  tags:
+  - NEC
+  - review
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00383-019-04586-y
+  title: Protective effects of vitamin D against injury in intestinal epithelium
+  authors:
+  - Carol Lee
+  - Ethan Lau
+  - Sinobol Chusilp
+  - Rachel Filler
+  - Bo Li
+  - Haitao Zhu
+  - Masaya Yamoto
+  - Agostino Pierro
+  publisher: Pediatric Surgery International
+  date: '2019-10-14'
+  link: https://doi.org/hbtgjw
+  type: paper
+  tags:
+  - vitamin D
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jpedsurg.2019.08.046
+  title: Protective effects of lactoferrin on injured intestinal epithelial cells
+  authors:
+  - Jia Liu
+  - Bo Li
+  - Carol Lee
+  - Haitao Zhu
+  - Shan Zheng
+  - Agostino Pierro
+  publisher: Journal of Pediatric Surgery
+  date: '2019-12-01'
+  link: https://doi.org/hbtgjx
+  type: paper
+  tags:
+  - lactoferrin
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00383-019-04559-1
+  title: 'Endothelin receptor B affects the perfusion of newborn intestine: possible
+    mechanism of necrotizing enterocolitis development'
+  authors:
+  - Hiromu Miyake
+  - Shogo Seo
+  - Naho Fujiwara
+  - Katsumi Miyahara
+  - Carol Lee
+  - Bo Li
+  - Yong Chen
+  - Atsuyuki Yamataka
+  - Agostino Pierro
+  publisher: Pediatric Surgery International
+  date: '2019-09-25'
+  link: https://doi.org/hbtgjz
+  type: paper
+  tags:
+  - Hirschsprung disease
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jpedsurg.2019.08.038
+  title: Vasoactive intestinal peptide decreases inflammation and tight junction disruption
+    in experimental necrotizing enterocolitis
+  authors:
+  - Shogo Seo
+  - Hiromu Miyake
+  - Mashriq Alganabi
+  - Maarten Janssen Lok
+  - Joshua S. O'Connell
+  - Carol Lee
+  - Bo Li
+  - Agostino Pierro
+  publisher: Journal of Pediatric Surgery
+  date: '2019-12-01'
+  link: https://doi.org/hbtgj2
+  type: paper
+  tags:
+  - NEC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00383-019-04566-2
+  title: The role of autophagy in intestinal epithelial injury
+  authors:
+  - Masaya Yamoto
+  - Carol Lee
+  - Sinobol Chusilp
+  - Yuta Yazaki
+  - Mashriq Alganabi
+  - Bo Li
+  - Agostino Pierro
+  publisher: Pediatric Surgery International
+  date: '2019-09-25'
+  link: https://doi.org/hbtgj3
+  type: paper
+  tags:
+  - autophagy
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1053/j.sempedsurg.2017.11.011
+  title: 'Stem cell therapy in necrotizing enterocolitis: Current state and future
+    directions'
+  authors:
+  - Natalie A. Drucker
+  - Christopher J. McCulloh
+  - Bo Li
+  - Agostino Pierro
+  - Gail E. Besner
+  - Troy A. Markel
+  publisher: Seminars in Pediatric Surgery
+  date: '2018-02-01'
+  link: https://doi.org/gcwgtt
+  type: paper
+  tags:
+  - NEC
+  - stem cells
+  - review
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-1-4939-7714-7_6
+  title: Live Imaging of Fetal Intra-abdominal Organs Using Two-Photon Laser-Scanning
+    Microscopy
+  authors:
+  - Yuhki Koike
+  - Bo Li
+  - Yong Chen
+  - Hiromu Miyake
+  - Carol Lee
+  - Lijun Chi
+  - Richard Wu
+  - Mikihiro Inoue
+  - Keiichi Uchida
+  - Masato Kusunoki
+  - Paul Delgado-Olguin
+  - Agostino Pierro
+  publisher: Methods in Molecular Biology
+  date: '2018-01-01'
+  link: https://doi.org/hbtgj4
+  type: paper
+  tags:
+  - methods
+  - imaging
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00383-017-4183-3
+  title: Influence of stress factors on intestinal epithelial injury and regeneration
+  authors:
+  - Carol Lee
+  - Adam Minich
+  - Bo Li
+  - Hiromu Miyake
+  - Shogo Seo
+  - Agostino Pierro
+  publisher: Pediatric Surgery International
+  date: '2017-10-10'
+  link: https://doi.org/gcxpz6
+  type: paper
+  tags:
+  - stress
+  - epithelium
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1152/ajpgi.00101.2018
+  title: Ground flaxseed reverses protection of a reduced-fat diet against <i>Citrobacter
+    rodentium</i>-induced colitis
+  authors:
+  - "Pekka M\xE4\xE4tt\xE4nen"
+  - Eberhard Lurz
+  - Steven R. Botts
+  - Richard Y. Wu
+  - C. William Yeung
+  - Bo Li
+  - Sumayyah Abiff
+  - Kathene C. Johnson-Henry
+  - Dion Lepp
+  - Krista A. Power
+  - Agostino Pierro
+  - Marc E. Surette
+  - Philip M. Sherman
+  publisher: American Journal of Physiology-Gastrointestinal and Liver Physiology
+  date: '2018-11-01'
+  link: https://doi.org/gfqpcn
+  type: paper
+  tags:
+  - nutrition
+  - microbiome
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jpedsurg.2018.02.006
+  title: Liver damage, proliferation, and progenitor cell markers in experimental
+    necrotizing enterocolitis
+  authors:
+  - Hiromu Miyake
+  - Bo Li
+  - Carol Lee
+  - Yuhki Koike
+  - Yong Chen
+  - Shogo Seo
+  - Agostino Pierro
+  publisher: Journal of Pediatric Surgery
+  date: '2018-05-01'
+  link: https://doi.org/gdj84h
+  type: paper
+  tags:
+  - NEC
+  - liver
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1055/s-0037-1607061
+  title: 'Duhamel and Transanal Endorectal Pull-throughs for Hirschsprung'' Disease:
+    A Systematic Review and Meta-analysis'
+  authors:
+  - Hiromu Miyake
+  - Alison Hock
+  - Yuhki Koike
+  - Chen Yong
+  - Carol Lee
+  - Bo Li
+  - Agostino Pierro
+  - Shogo Seo
+  publisher: European Journal of Pediatric Surgery
+  date: '2017-09-28'
+  link: https://doi.org/gmwtrq
+  type: paper
+  tags:
+  - Hirschsprung disease
+  - meta-analysis
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/srep46616
+  title: Inhibition of corticotropin-releasing hormone receptor 1 and activation of
+    receptor 2 protect against colonic injury and promote epithelium repair
+  authors:
+  - Bo Li
+  - Carol Lee
+  - Tali Filler
+  - Alison Hock
+  - Richard You Wu
+  - Qi Li
+  - Shigang Chen
+  - Yuhki Koike
+  - Wan Ip
+  - Lijun Chi
+  - Elke Zani-Ruttenstock
+  - "Pekka M\xE4\xE4tt\xE4nen"
+  - Tanja Gonska
+  - Paul Delgado-Olguin
+  - Augusto Zani
+  - Philip M. Sherman
+  - Agostino Pierro
+  publisher: Scientific Reports
+  date: '2017-05-11'
+  link: https://doi.org/f96qm9
+  type: paper
+  tags:
+  - CRH
+  - epithelium
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jpedsurg.2016.10.013
+  title: Intestinal epithelial injury induced by maternal separation is protected
+    by hydrogen sulfide
+  authors:
+  - Bo Li
+  - Carol Lee
+  - Zechariah Martin
+  - Xinpei Li
+  - Yuhki Koike
+  - Alison Hock
+  - Elke Zani-Ruttenstock
+  - Augusto Zani
+  - Agostino Pierro
+  publisher: Journal of Pediatric Surgery
+  date: '2017-01-01'
+  link: https://doi.org/hbtgkc
+  type: paper
+  tags:
+  - maternal separation
+  - hydrogen sulfide
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jpedsurg.2017.01.032
+  title: Breast milk-derived exosomes promote intestinal epithelial cell growth
+  authors:
+  - Alison Hock
+  - Hiromu Miyake
+  - Bo Li
+  - Carol Lee
+  - Leonardo Ermini
+  - Yuhki Koike
+  - Yong Chen
+  - "Pekka M\xE4\xE4tt\xE4nen"
+  - Augusto Zani
+  - Agostino Pierro
+  publisher: Journal of Pediatric Surgery
+  date: '2017-05-01'
+  link: https://doi.org/f98kdm
+  type: paper
+  tags:
+  - breast milk
+  - exosomes
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jpedsurg.2017.01.031
+  title: Gastric emptying is reduced in experimental NEC and correlates with the severity
+    of intestinal damage
+  authors:
+  - Yuhki Koike
+  - Bo Li
+  - Carol Lee
+  - Shigang Cheng
+  - Hiromu Miyake
+  - Christopher Welsh
+  - Alison Hock
+  - Jaques Belik
+  - Augusto Zani
+  - Agostino Pierro
+  publisher: Journal of Pediatric Surgery
+  date: '2017-05-01'
+  link: https://doi.org/f98j6p
+  type: paper
+  tags:
+  - NEC
+  - gastric emptying
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s40168-017-0357-4
+  title: Non-digestible oligosaccharides directly regulate host kinome to modulate
+    host inflammatory responses without alterations in the gut microbiota
+  authors:
+  - Richard Y. Wu
+  - "Pekka M\xE4\xE4tt\xE4nen"
+  - Scott Napper
+  - Erin Scruten
+  - Bo Li
+  - Yuhki Koike
+  - Kathene C. Johnson-Henry
+  - Agostino Pierro
+  - Laura Rossi
+  - Steven R. Botts
+  - Michael G. Surette
+  - Philip M. Sherman
+  publisher: Microbiome
+  date: '2017-10-10'
+  link: https://doi.org/gb4pqc
+  type: paper
+  tags:
+  - oligosaccharides
+  - microbiome
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jpedsurg.2016.02.073
+  title: Endoplasmic reticulum stress is involved in the colonic epithelium damage
+    induced by maternal separation
+  authors:
+  - Bo Li
+  - Augusto Zani
+  - Carol Lee
+  - Elke Zani-Ruttenstock
+  - Ziyi Zhang
+  - Xinpei Li
+  - Wan IP
+  - Tanja Gonska
+  - Agostino Pierro
+  publisher: Journal of Pediatric Surgery
+  date: '2016-06-01'
+  link: https://doi.org/f8t4d6
+  type: paper
+  tags:
+  - maternal separation
+  - ER stress
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jpedsurg.2016.02.019
+  title: Intestinal epithelial cell injury is rescued by hydrogen sulfide
+  authors:
+  - Bo Li
+  - Augusto Zani
+  - Zechariah Martin
+  - Carol Lee
+  - Elke Zani-Ruttenstock
+  - Simon Eaton
+  - Agostino Pierro
+  publisher: Journal of Pediatric Surgery
+  date: '2016-05-01'
+  link: https://doi.org/f8qxmb
+  type: paper
+  tags:
+  - hydrogen sulfide
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00383-016-3998-7
+  title: Osmolality of enteral formula and severity of experimental necrotizing enterocolitis
+  authors:
+  - Hiromu Miyake
+  - Yong Chen
+  - Yuhki Koike
+  - Alison Hock
+  - Bo Li
+  - Carol Lee
+  - Augusto Zani
+  - Agostino Pierro
+  publisher: Pediatric Surgery International
+  date: '2016-11-02'
+  link: https://doi.org/f9f8ft
+  type: paper
+  tags:
+  - NEC
+  - formula
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00383-015-3813-x
+  title: A spectrum of intestinal injury models in neonatal mice
+  authors:
+  - Augusto Zani
+  - Elke Zani-Ruttenstock
+  - Forouhideh Peyvandi
+  - Carol Lee
+  - Bo Li
+  - Agostino Pierro
+  publisher: Pediatric Surgery International
+  date: '2015-11-09'
+  link: https://doi.org/hbtgkd
+  type: paper
+  tags:
+  - NEC
+  - models
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00383-014-3611-x
+  title: Early maternal separation induces alterations of colonic epithelial permeability
+    and morphology
+  authors:
+  - Bo Li
+  - Carol Lee
+  - Augusto Zani
+  - Elke Zani-Ruttenstock
+  - Wan Ip
+  - Lijun Chi
+  - Paul Delgado Olguin
+  - Tanja Gonska
+  - Agostino Pierro
+  publisher: Pediatric Surgery International
+  date: '2014-10-31'
+  link: https://doi.org/f6qzb4
+  type: paper
+  tags:
+  - maternal separation
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1242/dev.036954
+  title: The posteriorizing gene<i>Gbx2</i>is a direct target of Wnt signalling and
+    the earliest factor in neural crest induction
+  authors:
+  - Bo Li
+  - Sei Kuriyama
+  - Mauricio Moreno
+  - Roberto Mayor
+  publisher: Development
+  date: '2009-10-01'
+  link: https://doi.org/fjqn9s
+  type: paper
+  tags:
+  - neural crest
+  - development
   plugin: sources.py
   file: sources.yaml
