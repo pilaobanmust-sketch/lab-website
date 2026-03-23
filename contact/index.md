@@ -11,7 +11,7 @@ nav:
 {%
   include button.html
   type="email"
-  text="jbo.li@must.edu.mo"
+  text="bo.li@must.edu.mo"
   link="bo.li@must.edu.mo"
 %}
 {%
