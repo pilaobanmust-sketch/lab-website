@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We employ cutting-edge technologies including organoid and assembloid models to study intestinal development, disease progression, and regenerative therapies. Our work bridges basic science and clinical applications to improve outcomes for infants with devastating intestinal conditions.
 
 {% include tags.html tags="publication, resource, website" %}
 

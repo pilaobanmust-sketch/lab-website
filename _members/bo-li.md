@@ -1,6 +1,6 @@
 ---
 name: Bo (Peter) Li
-image: images/libo.jpg
+image: images/libo.png
 role: principal-investigator
 affiliation: Macau University of Science and Technology
 aliases:

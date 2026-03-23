@@ -4,7 +4,7 @@
 - id: doi:10.1146/annurev-pathmechdis-070224-014223
   type: paper
   description: Comprehensive review exploring the complex pathophysiology of necrotizing enterocolitis in preterm neonates.
-  image: images/publication-ar.jpg
+  image: images/publication-ar.png
   tags:
     - NEC
     - review
@@ -13,7 +13,7 @@
 - id: doi:10.1016/j.jcmgh.2026.101730
   type: paper
   description: Molecular and chromatin accessibility programs underlying epithelial injury and impaired regeneration in neonatal necrotizing enterocolitis.
-  image: images/publication-cmgh.jpg
+  image: images/publication-cmgh.png
   tags:
     - NEC
     - genomics
@@ -22,7 +22,7 @@
 - id: doi:10.1126/scitranslmed.adp4679
   type: paper
   description: Impairment of stromal-epithelial regenerative cross-talk in Hirschsprung disease primes for the progression to enterocolitis.
-  image: images/publication-stm.jpg
+  image: images/publication-stm.png
   tags:
     - Hirschsprung disease
     - regeneration
@@ -31,7 +31,7 @@
 - id: doi:10.1038/s41467-020-18750-9
   type: paper
   description: Remote ischemic conditioning counteracts the intestinal damage of necrotizing enterocolitis by improving intestinal microcirculation.
-  image: images/publication-nc.jpg
+  image: images/publication-nc.png
   tags:
     - NEC
     - therapy
@@ -40,7 +40,7 @@
 - id: doi:10.1038/s41419-019-1987-1
   type: paper
   description: Impaired Wnt/β-catenin pathway leads to dysfunction of intestinal regeneration during necrotizing enterocolitis.
-  image: images/publication-cdd.jpg
+  image: images/publication-cdd.png
   tags:
     - NEC
     - Wnt signaling
