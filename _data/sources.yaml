@@ -1,11 +1,46 @@
-# Add your publication DOIs here
-# Publications will be automatically imported from Google Scholar
-# You can add additional publications with DOIs below:
-#
-# - id: doi:10.1371/journal.pcbi.1007128
-#   type: paper
-#   description: Optional description
-#   tags:
-#     - tag1
-#     - tag2
+# Featured Publications
+# These will be highlighted on the research page
+
+- id: doi:10.1146/annurev-pathmechdis-070224-014223
+  type: paper
+  description: Comprehensive review exploring the complex pathophysiology of necrotizing enterocolitis in preterm neonates.
+  tags:
+    - NEC
+    - review
+    - pathophysiology
+
+- id: doi:10.1016/j.jcmgh.2026.101730
+  type: paper
+  description: Molecular and chromatin accessibility programs underlying epithelial injury and impaired regeneration in neonatal necrotizing enterocolitis.
+  tags:
+    - NEC
+    - genomics
+    - regeneration
+
+- id: doi:10.1126/scitranslmed.adp4679
+  type: paper
+  description: Impairment of stromal-epithelial regenerative cross-talk in Hirschsprung disease primes for the progression to enterocolitis.
+  tags:
+    - Hirschsprung disease
+    - regeneration
+    - enterocolitis
+
+- id: doi:10.1038/s41467-020-18750-9
+  type: paper
+  description: Remote ischemic conditioning counteracts the intestinal damage of necrotizing enterocolitis by improving intestinal microcirculation.
+  tags:
+    - NEC
+    - therapy
+    - microcirculation
+
+- id: doi:10.1038/s41419-019-1987-1
+  type: paper
+  description: Impaired Wnt/β-catenin pathway leads to dysfunction of intestinal regeneration during necrotizing enterocolitis.
+  tags:
+    - NEC
+    - Wnt signaling
+    - stem cells
+
+# Additional publications will be automatically imported from Google Scholar
+# You can add more specific publications with DOIs below using the same format
 

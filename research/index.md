@@ -7,18 +7,27 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our research focuses on understanding the molecular and cellular mechanisms of neonatal intestinal diseases, particularly necrotizing enterocolitis (NEC). We employ cutting-edge technologies including organoid models, single-cell genomics, and regenerative medicine approaches to develop novel therapeutic strategies.
+
+With over 95 peer-reviewed publications, our work has contributed to advancing the field of pediatric regenerative medicine and intestinal stem cell biology.
 
 {% include section.html %}
 
-## Highlighted
+## Highlighted Publications
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="doi:10.1146/annurev-pathmechdis-070224-014223" style="rich" %}
+
+{% include citation.html lookup="doi:10.1016/j.jcmgh.2026.101730" style="rich" %}
+
+{% include citation.html lookup="doi:10.1126/scitranslmed.adp4679" style="rich" %}
+
+{% include citation.html lookup="doi:10.1038/s41467-020-18750-9" style="rich" %}
+
+{% include citation.html lookup="doi:10.1038/s41419-019-1987-1" style="rich" %}
 
 {% include section.html %}
 
-## All
+## All Publications
 
 {% include search-box.html %}
 
