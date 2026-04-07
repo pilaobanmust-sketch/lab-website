@@ -20,9 +20,17 @@ Welcome to the Bo Li Laboratory at the Precision Regenerative Medicine Research 
 
 {% capture text %}
 
-Congenital Gut Disorders
+## Congenital Gut Disorders
 
 Including Hirschsprung disease (HSCR) and anorectal malformations (ARM), with a focus on developmental remodeling of the intestinal microenvironment.
+
+## Acquired Intestinal Injury
+
+Including necrotizing enterocolitis (NEC) and inflammatory bowel disease (IBD), with a focus on injury response and regenerative repair.
+
+## Systemic and Secondary Injury States
+
+Including liver and biliary disease, sepsis, and aging-related conditions that disrupt intestinal homeostasis and regeneration.
 
 {%
   include button.html
@@ -39,42 +47,13 @@ Including Hirschsprung disease (HSCR) and anorectal malformations (ARM), with a 
   include feature.html
   image="images/research.png"
   link="research"
-  title="Congenital Gut Disorders"
+  title="Research"
   text=text
 %}
 
 {% capture text %}
 
-Acquired Intestinal Injury
-
-Including necrotizing enterocolitis (NEC) and inflammatory bowel disease (IBD), with a focus on injury response and regenerative repair.
-
-{%
-  include button.html
-  link="research"
-  text="Learn more"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/project.png"
-  link="research"
-  title="Acquired Intestinal Injury"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Systemic and Secondary Injury States
-
-Including liver and biliary disease, sepsis, and aging-related conditions that disrupt intestinal homeostasis and regeneration.
+We are building a collaborative, interdisciplinary, and internationally connected research team dedicated to understanding gut remodeling and regeneration in development, injury, and disease. We welcome students, fellows, and collaborators who share these interests.
 
 {%
   include button.html
