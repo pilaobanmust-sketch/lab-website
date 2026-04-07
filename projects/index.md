@@ -1,26 +1,18 @@
 ---
-title: Projects
+title: Publications
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Our publication record
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-book-open" %}Publications
 
-We employ cutting-edge technologies including organoid and assembloid models to study intestinal development, disease progression, and regenerative therapies. Our work bridges basic science and clinical applications to improve outcomes for infants with devastating intestinal conditions.
+Our publications reflect ongoing work in gut remodeling and regeneration across developmental disorders, acquired intestinal injury, and systemic disease states. A full publication list is also available on [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=2&user=wf4QLyYAAAAJ).
 
-{% include tags.html tags="publication, resource, website" %}
+{% include section.html %}
+
+{% include search-box.html %}
 
 {% include search-info.html %}
 
-{% include section.html %}
-
-## Featured
-
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
-
-{% include section.html %}
-
-## More
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html data="citations" component="citation" style="rich" %}

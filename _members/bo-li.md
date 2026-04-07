@@ -1,44 +1,63 @@
 ---
-name: Bo (Peter) Li
-image: images/libo.png
+name: Bo Li
+image: images/libo.jpg
 role: principal-investigator
 affiliation: Macau University of Science and Technology
 aliases:
   - B. Li
   - Bo Li
   - Peter Li
+  - Bo (Peter) Li
 links:
   email: bo.li@must.edu.mo
   google-scholar: wf4QLyYAAAAJ
 ---
 
-Dr. Bo (Peter) Li is an Assistant Professor at the Precision Regenerative Medicine Research Centre (PRMRC) at Macau University of Science and Technology (MUST). His research focuses on developmental microenvironment remodeling in neonatal intestinal diseases, particularly necrotizing enterocolitis (NEC).
+Dr. Bo Li is an Assistant Professor at the Precision Regenerative Medicine Research Centre (PRMRC) at Macau University of Science and Technology (MUST). His research focuses on the mechanisms of gut remodeling and regeneration across congenital disorders, acquired intestinal injury, and systemic disease states. His work integrates stem cell biology, organoid and assembloid models, human tissues and patient-derived systems, experimental animal models, spatial and single-cell omics, and regenerative therapeutic strategies to understand disease mechanisms and identify pathways for tissue repair.
+
+## Academic Positions
+
+**Assistant Professor**, 2026–present
+Precision Regenerative Medicine Research Centre
+Macau University of Science and Technology
+
+**Senior Research Associate**, 2020–2026
+The Hospital for Sick Children, Toronto
+
+**Postdoctoral Fellow**, 2014–2020
+The Hospital for Sick Children, Toronto
+Department of Surgery, University of Toronto
+
+**Associate Professor**, 2009–2014
+Liaoning He Medical University
 
 ## Education
 
-**Ph.D. in Cell and Developmental Biology** (2005-2015)
+**PhD in Cell and Developmental Biology** (2005–2009)
 University College London, UK
-Supervisor: Dr. Roberto Mayor
 
-**Master of Research in Biomedical Sciences** (2004-2005)
+**MRes in Biomedical Sciences** (2004–2005)
 University of Nottingham, UK
 
-**Bachelor in Bio-pharmaceutical Engineering** (2000-2004)
+**Bachelor's Degree in Biopharmaceutical Engineering** (2000–2004)
 Shenyang Pharmaceutical University, China
 
 ## Research Interests
 
-- Intestinal stem cell–driven regeneration and epithelial repair in necrotizing enterocolitis (NEC)
-- Stromal and vascular niche regulation in neonatal intestinal injury and repair
-- Regenerative therapeutic strategies for NEC, including stem cell–based and conditioning approaches
-- Organoid and assembloid models for studying intestinal development, disease progression, and regenerative therapies
-- Developmental microenvironment remodeling in neonatal intestinal diseases
+- Gut remodeling and regeneration across development, injury, and disease
+- Congenital gut disorders, including Hirschsprung disease (HSCR) and anorectal malformations (ARM)
+- Acquired intestinal injury, including necrotizing enterocolitis (NEC) and inflammatory bowel disease (IBD)
+- Stromal, vascular, immune, and neural microenvironment regulation of tissue repair
+- Organoid, assembloid, and multi-omics approaches for regenerative biology and translational therapy
 
 ## Selected Achievements
 
-- 25 first-author peer-reviewed publications, 9 corresponding-author publications, 95 total peer-reviewed articles
-- Co-Investigator on $1.8M+ CAD in active CIHR grants
-- Principal Investigator on multiple completed grants including Thrasher Research Fund Early Career Award
-- ECR Editorial Board Member for The FASEB Journal (2024-2026)
-- Editorial Board Member of BMC Gastroenterology
-- Multiple international travel awards and honors including CIHR-III new investigators forum award (2024)
+- Author of 95+ peer-reviewed publications in intestinal biology, regenerative medicine, and pediatric disease research
+- Publications in leading journals including Science Translational Medicine, Nature Communications, Immunity, and Cellular and Molecular Gastroenterology and Hepatology
+- Recipient of multiple peer-reviewed research grants and international awards in regenerative and pediatric disease research
+- Editorial and reviewer contributions to journals in gastroenterology, regenerative medicine, and developmental biology
+
+## Selected Honors and Awards
+
+- Thrasher Research Fund Early Career Award
+- Prem Puri Prize, International Symposium for Paediatric Surgical Research

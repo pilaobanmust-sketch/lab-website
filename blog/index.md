@@ -1,12 +1,13 @@
 ---
-title: Blog
+title: Activities
 nav:
   order: 4
-  tooltip: Musings and miscellany
+  tooltip: Lab activities and news
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
+# {% include icon.html icon="fa-solid fa-camera" %}Lab Activities
 
+Snapshots of our research environment, team life, academic meetings, and collaborative activities across Macau, Hengqin, and our international network.
 
 {% include section.html %}
 

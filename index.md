@@ -1,9 +1,9 @@
 ---
 ---
 
-# PRMRC - Li Lab
+# Bo Li Laboratory
 
-Welcome to the Precision Regenerative Medicine Research Centre at Macau University of Science and Technology. Our lab focuses on advancing regenerative medicine through innovative research in intestinal stem cell biology, organoid models, and therapeutic strategies for neonatal intestinal diseases.
+Welcome to the Bo Li Laboratory at the Precision Regenerative Medicine Research Centre, Macau University of Science and Technology. We study the mechanisms of gut remodeling and regeneration across developmental disorders, acquired intestinal injury, and systemic disease states. Our research integrates stem cell biology, organoid and assembloid models, spatial and single-cell omics, and regenerative therapeutic strategies to understand how tissues lose and regain regenerative competence.
 
 {%
   include button.html
@@ -16,16 +16,18 @@ Welcome to the Precision Regenerative Medicine Research Centre at Macau Universi
 
 {% include section.html %}
 
-## Highlights
+## Research Areas
 
 {% capture text %}
 
-Our research focuses on developmental microenvironment remodeling in neonatal intestinal diseases, particularly necrotizing enterocolitis (NEC). We investigate intestinal stem cell-driven regeneration, stromal and vascular niche regulation, and develop novel regenerative therapeutic strategies using stem cell-based approaches and organoid models.
+Congenital Gut Disorders
+
+Including Hirschsprung disease (HSCR) and anorectal malformations (ARM), with a focus on developmental remodeling of the intestinal microenvironment.
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Learn more"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -37,18 +39,20 @@ Our research focuses on developmental microenvironment remodeling in neonatal in
   include feature.html
   image="images/research.png"
   link="research"
-  title="Our Research"
+  title="Congenital Gut Disorders"
   text=text
 %}
 
 {% capture text %}
 
-We employ cutting-edge technologies including organoid and assembloid models to study intestinal development, disease progression, and regenerative therapies. Our work bridges basic science and clinical applications to improve outcomes for infants with devastating intestinal conditions.
+Acquired Intestinal Injury
+
+Including necrotizing enterocolitis (NEC) and inflammatory bowel disease (IBD), with a focus on injury response and regenerative repair.
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="research"
+  text="Learn more"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -59,8 +63,8 @@ We employ cutting-edge technologies including organoid and assembloid models to 
 {%
   include feature.html
   image="images/project.png"
-  link="projects"
-  title="Our Projects"
+  link="research"
+  title="Acquired Intestinal Injury"
   flip=true
   style="bare"
   text=text
@@ -68,7 +72,9 @@ We employ cutting-edge technologies including organoid and assembloid models to 
 
 {% capture text %}
 
-Our team is dedicated to advancing regenerative medicine research and training the next generation of scientists. We foster a collaborative environment where innovation meets clinical impact.
+Systemic and Secondary Injury States
+
+Including liver and biliary disease, sepsis, and aging-related conditions that disrupt intestinal homeostasis and regeneration.
 
 {%
   include button.html
