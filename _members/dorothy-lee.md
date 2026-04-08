@@ -1,5 +1,6 @@
 ---
 name: Dorothy Lee
+image: images/Dorothy.jpg
 role: postdoc
 affiliation: Precision Regenerative Medicine Research Centre, Macau University of Science and Technology
 ---
