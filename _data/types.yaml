@@ -26,10 +26,6 @@ mascot:
   icon: fa-solid fa-dog
   description: Mascot
 
-collab:
-  icon: fa-solid fa-handshake
-  description: Collaborator
-
 # general
 
 link:
