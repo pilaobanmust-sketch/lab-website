@@ -50,11 +50,3 @@ Including liver and biliary disease, sepsis, and aging-related conditions that d
   title="Research"
   text=text
 %}
-
-{%
-  include feature.html
-  image="images/mainpage2.png"
-  link="team"
-  title="Our Team"
-  text=text
-%}
