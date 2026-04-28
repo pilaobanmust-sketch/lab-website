@@ -43,3 +43,24 @@ We welcome inquiries regarding research collaborations, postgraduate training, a
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
+
+{% include section.html %}
+
+<div class="row">
+  <div class="col">
+    {%
+      include figure.html
+      image="images/map1.png"
+      caption="Macau campus location"
+      link="https://www.google.com/maps/search/Macau+University+of+Science+and+Technology"
+    %}
+  </div>
+  <div class="col">
+    {%
+      include figure.html
+      image="images/map2.png"
+      caption="Hengqin campus location"
+      link="https://www.google.com/maps/search/Macau+University+of+Science+and+Technology+Hengqin"
+    %}
+  </div>
+</div>
