@@ -11,7 +11,7 @@ Organized by the International Consortium on the Genetics of Hirschsprung Diseas
 
 At the conference, Assistant Professor Bo Li from the Precision Regenerative Medicine Research Centre delivered an academic presentation entitled "HAEC and stromal-epithelial regenerative cross-talk." Drawing on the team's research foundation in the intestinal microenvironment, stromal remodeling, and regenerative repair, the presentation introduced new ideas regarding HSCR-associated enterocolitis and impaired tissue repair.
 
-![ENS 2026 Leuven Meeting](images/ENS%202026%20Leuven%20meeting.jpg)
+![ENS 2026 Leuven Meeting](images/ENS_2026_Leuven_meeting.jpg)
 
 Earlier, Assistant Professor Li also attended the ENS 2026 Leuven meeting in Belgium, where he engaged in extensive discussions with international colleagues on frontier topics including enteric nervous system development, Hirschsprung disease, the pathogenesis of HAEC, and regenerative medicine.
 
