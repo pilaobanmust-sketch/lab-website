@@ -18,8 +18,6 @@ Welcome to the Bo Li Laboratory at the Precision Regenerative Medicine Research 
 
 ## Research Areas
 
-{% capture text %}
-
 ## Congenital Gut Disorders
 
 Including Hirschsprung disease (HSCR) and anorectal malformations (ARM), with a focus on developmental remodeling of the intestinal microenvironment.
@@ -47,29 +45,14 @@ Including liver and biliary disease, sepsis, and aging-related conditions that d
   include feature.html
   image="images/mainpage1.png"
   link="research"
-  title="Research"
+  title="Research1"
   text=text
 %}
-
-{% capture text %}
-
-We are building a collaborative, interdisciplinary, and internationally connected research team dedicated to understanding gut remodeling and regeneration in development, injury, and disease. We welcome students, fellows, and collaborators who share these interests.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
 
 {%
   include feature.html
   image="images/mainpage2.png"
   link="team"
-  title="Our Team"
+  title="Research2"
   text=text
 %}

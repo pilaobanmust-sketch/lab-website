@@ -3,6 +3,9 @@ title: Publications
 nav:
   order: 2
   tooltip: Our publication record
+redirect_from:
+  - /projects/
+  - /projects
 ---
 
 # {% include icon.html icon="fa-solid fa-book-open" %}Publications
