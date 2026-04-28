@@ -16,9 +16,7 @@ Welcome to the Bo Li Laboratory at the Precision Regenerative Medicine Research 
 
 {% include section.html %}
 
-## Research Areas
-
-{% capture research_text %}
+## Research
 
 ## Congenital Gut Disorders
 
@@ -41,19 +39,20 @@ Including liver and biliary disease, sepsis, and aging-related conditions that d
   style="bare"
 %}
 
-{% endcapture %}
-
+{% capture col1 %}
 {%
-  include feature.html
+  include figure.html
   image="images/mainpage1.png"
   link="research"
-  title="Research"
-  text=research_text
 %}
+{% endcapture %}
 
+{% capture col2 %}
 {%
-  include feature.html
+  include figure.html
   image="images/mainpage2.png"
   link="research"
-  flip=true
 %}
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
