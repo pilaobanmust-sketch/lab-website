@@ -45,7 +45,7 @@ Including liver and biliary disease, sepsis, and aging-related conditions that d
 
 {%
   include feature.html
-  image="images/research.png"
+  image="images/mainpage1.PNG"
   link="research"
   title="Research"
   text=text
@@ -68,7 +68,7 @@ We are building a collaborative, interdisciplinary, and internationally connecte
 
 {%
   include feature.html
-  image="images/team.png"
+  image="images/mainpage2.PNG"
   link="team"
   title="Our Team"
   text=text

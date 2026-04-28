@@ -61,10 +61,6 @@ Our work is supported by collaborations across Macau, Mainland China, and intern
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
