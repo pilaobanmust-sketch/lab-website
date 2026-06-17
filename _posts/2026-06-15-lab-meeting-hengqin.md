@@ -15,4 +15,8 @@ As our research presence in Hengqin continues to grow, this gathering marks anot
 
 ![Lab meeting group photo at the MUST Innovation Technology Research Institute](https://github.com/pilaobanmust-sketch/lab-website/blob/main/images/lab-meeting-hengqin-1.jpg?raw=true)
 
+*Figure 1. Group photo of the Bo Li Laboratory team at the MUST Innovation Technology Research Institute in the Hengqin-Macao In-Depth Cooperation Zone, June 15, 2026.*
+
 ![Team discussions during the lab meeting](https://github.com/pilaobanmust-sketch/lab-website/blob/main/images/lab-meeting-hengqin-2.jpg?raw=true)
+
+*Figure 2. Team members engage in discussions on biliary atresia studies, intestinal organoid models, and liver fibrosis research during the lab meeting at the Hengqin research facility.*

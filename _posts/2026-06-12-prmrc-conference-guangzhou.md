@@ -19,4 +19,8 @@ This participation further strengthened the connection between PRMRC and leading
 
 ![Yingying He delivering an oral presentation at the conference](https://github.com/pilaobanmust-sketch/lab-website/blob/main/images/conference-guangzhou-1.jpg?raw=true)
 
+*Figure 1. Yingying He, a master's student supervised by Assistant Professor Bo Li, delivers an oral presentation on biliary atresia post-Kasai cholangitis mechanisms at the CMA Pediatric Surgery conference in Guangzhou.*
+
 ![Assistant Professor Bo Li exchanging ideas with pediatric surgeons from Zhujiang Hospital, Southern Medical University](https://github.com/pilaobanmust-sketch/lab-website/blob/main/images/conference-guangzhou-2.jpg?raw=true)
+
+*Figure 2. Assistant Professor Bo Li discusses potential collaborations in pediatric intestinal diseases, necrotizing enterocolitis, and tissue injury repair with Professor Kai Wu and his pediatric surgery team at Zhujiang Hospital, Southern Medical University.*
