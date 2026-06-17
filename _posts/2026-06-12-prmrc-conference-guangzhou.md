@@ -17,6 +17,6 @@ Following the conference, Assistant Professor Bo Li and colleagues visited Zhuji
 
 This participation further strengthened the connection between PRMRC and leading pediatric surgery experts and clinical centers in China. It also reflected the Centre's continued development in biliary atresia, liver fibrosis, pediatric intestinal diseases, tissue injury repair, and translational medicine. Moving forward, PRMRC will continue to leverage its research platforms to promote close integration between basic research and clinical needs, strengthen collaboration with leading pediatric medical centers, and advance mechanistic and translational research in pediatric surgical diseases.
 
-![Yingying He delivering an oral presentation at the conference](images/conference-guangzhou-1.jpg)
+![Yingying He delivering an oral presentation at the conference](https://github.com/pilaobanmust-sketch/lab-website/blob/main/images/conference-guangzhou-1.jpg?raw=true)
 
-![Assistant Professor Bo Li exchanging ideas with pediatric surgeons from Zhujiang Hospital, Southern Medical University](images/conference-guangzhou-2.jpg)
+![Assistant Professor Bo Li exchanging ideas with pediatric surgeons from Zhujiang Hospital, Southern Medical University](https://github.com/pilaobanmust-sketch/lab-website/blob/main/images/conference-guangzhou-2.jpg?raw=true)

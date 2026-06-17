@@ -13,6 +13,6 @@ The meeting covered a wide range of topics, including updates on biliary atresia
 
 As our research presence in Hengqin continues to grow, this gathering marks another important step in building a robust platform for translational medicine research in the Greater Bay Area.
 
-![Lab meeting group photo at the MUST Innovation Technology Research Institute](images/lab-meeting-hengqin-1.jpg)
+![Lab meeting group photo at the MUST Innovation Technology Research Institute](https://github.com/pilaobanmust-sketch/lab-website/blob/main/images/lab-meeting-hengqin-1.jpg?raw=true)
 
-![Team discussions during the lab meeting](images/lab-meeting-hengqin-2.jpg)
+![Team discussions during the lab meeting](https://github.com/pilaobanmust-sketch/lab-website/blob/main/images/lab-meeting-hengqin-2.jpg?raw=true)
